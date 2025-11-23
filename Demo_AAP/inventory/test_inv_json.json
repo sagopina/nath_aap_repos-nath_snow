@@ -1,15 +1,15 @@
 {
-     "all": {
-        "children": [
-            "groupA",
-            "ungrouped"
-        ]
-    },
-    "groupA": {
-        "hosts": [
-            "host1",
-            "host2",
-            "host3"
-        ]
+  "all": {
+    "children": {
+      "groupA": {},
+      "ungrouped": {}
     }
+  },
+  "groupA": {
+    "hosts": {
+      "host1": {},
+      "host2": {},
+      "host3": {}
+    }
+  }
 }
