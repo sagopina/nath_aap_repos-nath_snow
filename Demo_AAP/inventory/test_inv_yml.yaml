@@ -8,7 +8,7 @@ all:
         web2.example.com:
           http_port: 8081
       vars:
-        ansible_user: webadmin
+        ansible_user: AAP_WEB_ADMIN
         app_env: production
 
     dbservers:
