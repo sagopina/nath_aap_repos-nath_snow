@@ -1,3 +1,4 @@
+---
 # Group hosts automatically, according to values of manufacturer and os columns.
 # Include only records with the specified operating systems.
 # Groups will most likely overlap.
